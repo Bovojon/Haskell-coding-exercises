@@ -1,1 +1,1 @@
-# Haskell-coding-exercises
+# Haskell Coding Exercises
